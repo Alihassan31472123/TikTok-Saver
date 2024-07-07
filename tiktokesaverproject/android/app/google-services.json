@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "219140366426",
+    "project_id": "tiktoke-saver",
+    "storage_bucket": "tiktoke-saver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219140366426:android:86bf66e2cc43db2d3ef863",
+        "android_client_info": {
+          "package_name": "com.ah.developers.tiktoke.saver.downloader.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2dUCUo0YmlC0go0MOkQeraZL7MFwysvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-6611686410771379~2840846757"
+    }
+  ],
+  "configuration_version": "1"
+}
